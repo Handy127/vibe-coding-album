@@ -1,0 +1,13 @@
+node_modules
+dist
+.npm-cache
+.codex-checkpoints
+qa
+dev-server.log
+dev-server.err.log
+.vite-*.log
+*.zip
+.env
+.env.local
+.DS_Store
+*.local
